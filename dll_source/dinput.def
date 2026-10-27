@@ -1,0 +1,11 @@
+; 锁定导出名，防止 MinGW/lld 给 __stdcall 函数加 @N 后缀。
+; 真 dinput.dll 只有这 7 个导出，逐一对齐（已用 dump_exports.py 核对）。
+LIBRARY dinput
+EXPORTS
+    DirectInputCreateA
+    DirectInputCreateW
+    DirectInputCreateEx
+    DllCanUnloadNow
+    DllGetClassObject
+    DllRegisterServer
+    DllUnregisterServer

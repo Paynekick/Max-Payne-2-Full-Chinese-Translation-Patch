@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# archives / game data (never commit game assets!)
+*.ras
+*.mp2m
+*.iso
+
+# build & working outputs
+output/
+extracted/
+extracted_full/
+cn_out/
+*.log
+
+# local tool config (contains personal paths)
+config.json
+
+# fonts are downloaded by the user (see README), not committed
+*.ttf
+*.otf

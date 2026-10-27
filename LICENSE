@@ -1,0 +1,36 @@
+MIT License
+
+Copyright (c) 2026 Paynekick
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Note on scope / 许可范围说明:
+
+The MIT license above covers the source code, tools and translation data in
+this repository. It does NOT cover Max Payne 2 itself. "Max Payne" is a
+trademark of Remedy Entertainment Plc.; the game is (c) Remedy Entertainment
+Plc. and Rockstar Games, Inc. This project is not affiliated with, endorsed
+by, or sponsored by Remedy Entertainment or Rockstar Games. No copyrighted
+game assets are included in or distributed by this repository.
+
+本 MIT 许可证仅覆盖本仓库中的源代码、工具与译文数据，不覆盖《马克思佩恩2》
+游戏本身。游戏版权归 Remedy Entertainment / Rockstar Games 所有。本项目与
+上述公司无任何隶属或合作关系，仓库中不含任何受版权保护的游戏素材。
