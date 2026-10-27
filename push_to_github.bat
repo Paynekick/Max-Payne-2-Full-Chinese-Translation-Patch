@@ -3,7 +3,7 @@ chcp 65001 >nul 2>&1
 setlocal
 
 REM ===== EDIT THESE TWO LINES BEFORE FIRST RUN =====
-set "REMOTE_URL=https://github.com/PASTE_YOUR_NAME/PASTE_REPO.git"
+set "REMOTE_URL=https://github.com/Paynekick/Max-Payne-2-Full-Chinese-Translation-Patch.git"
 set "GIT_NAME=Paynekick"
 set "GIT_EMAIL=paynekick@users.noreply.github.com"
 REM =================================================

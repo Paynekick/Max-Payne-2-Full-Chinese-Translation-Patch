@@ -4,7 +4,6 @@ __pycache__/
 
 # archives / game data (never commit game assets!)
 *.ras
-*.mp2m
 *.iso
 
 # build & working outputs
