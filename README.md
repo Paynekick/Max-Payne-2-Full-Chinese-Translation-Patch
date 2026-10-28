@@ -72,7 +72,7 @@ This is an **unofficial fan project**. *Max Payne* and *Max Payne 2* are tradema
 
 ### 原理（方案B）
 
-游戏所有文本都从 `MP2_English.ras` 读取。构建工具把中文以**单字节高位编码**（一个汉字 = 一个 `0x80–0xFE` 字节）直接写回归档；每句的汉字装箱到共享的 128 槽字盘（`font_cn_N.tga`，由 TrueType 字体渲染）；一个小型 `dinput.dll` 钩子按字符串 FNV-1a 哈希查表、逐串切换字盘。文本走游戏自身管线，无任何运行时文本匹配补丁。
+游戏所有文本都从 `MP2_English.ras` 读取。构建工具把中文以**单字节高位编码**（一个汉字 = 一个 `0x80–0xFE` 字节）直接写回归档；每句的汉字装箱到共享的 128 槽字盘（`font_cn_N.tga`，由 TrueType 字体渲染）；一个小型 `dinput.dll` 钩子按字符串 FNV-1a 哈希查表、逐串切换字盘。文本走游戏自身渲染，没有任何运行时文本匹配的补丁。
 
 ### 使用方法
 
